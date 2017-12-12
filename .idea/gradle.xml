@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$/aidl" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/dagger" />
+            <option value="$PROJECT_DIR$/rxtest" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
